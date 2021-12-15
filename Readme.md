@@ -1,4 +1,4 @@
-Bit Predict Time series
+**Bit Predict Time series**
 
 
 - Bitcoin price prediction using N-BEATS (Neural Basis Expansion Analysis for Interpretable Time Series 
@@ -11,5 +11,5 @@ Forecasting) algorithm.
 - Designed a series of 10 deep learning experiments for improving results and forecasting horizon.  
 
 - Also made the use of ensemble learning method by combining 5 deep learning models. 
--
+
 - Introduced outliers on purpose to evaluate the effects of on training and overall model testing
